@@ -1,1 +1,12 @@
 # project2
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is my first website | Code X</title>
+</head>
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+</html>
